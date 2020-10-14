@@ -1,0 +1,21 @@
+h1{
+    color:blue;
+    color: #ff0000;
+    border: 8px dashed rgb(255,100,80);
+
+}
+li{
+    color: green;
+}
+h4{
+    background: rgb(255,100,80);
+}
+body{
+    background: pink;
+    /* background: url(https://pixy.org/src/424/4248409.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+/* h1{
+    color:blue;
+} if this was in, this was override the first h1 and turn it blue */
